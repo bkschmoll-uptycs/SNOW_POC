@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Uptycs Data">0a03c3d11b121010b9cb31d7dc4bcb84</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>this is just a tests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_297025_uptycs_da_this_is_just_a_test</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_297025_uptycs_da.this_is_just_a_test_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 14:55:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e03c3d11b121010b9cb31d7dc4bcb86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>this is just a tests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Uptycs Data" source="x_297025_uptycs_da">b4f0c3511b121010b9cb31d7dc4bcb70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Uptycs Data">b4f0c3511b121010b9cb31d7dc4bcb70</sys_scope>
+        <sys_update_name>sys_app_module_0e03c3d11b121010b9cb31d7dc4bcb86</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 14:55:24</sys_updated_on>
+        <timeline_page/>
+        <title>this is just a tests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Uptycs Data">b4f0c3511b121010b9cb31d7dc4bcb70</application>
+        <file_path/>
+        <instance_id>a56fc249db533388b847ac44d4961923</instance_id>
+        <instance_name>dev91425</instance_name>
+        <name>sys_app_module_0e03c3d11b121010b9cb31d7dc4bcb86</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Uptycs Data">0a03c3d11b121010b9cb31d7dc4bcb84</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>this is just a tests</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_297025_uptycs_da_this_is_just_a_test</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_297025_uptycs_da.this_is_just_a_test_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-28 14:55:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0e03c3d11b121010b9cb31d7dc4bcb86</sys_id><sys_mod_count>0</sys_mod_count><sys_name>this is just a tests</sys_name><sys_overrides/><sys_package display_value="Uptycs Data" source="x_297025_uptycs_da">b4f0c3511b121010b9cb31d7dc4bcb70</sys_package><sys_policy/><sys_scope display_value="Uptycs Data">b4f0c3511b121010b9cb31d7dc4bcb70</sys_scope><sys_update_name>sys_app_module_0e03c3d11b121010b9cb31d7dc4bcb86</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-28 14:55:24</sys_updated_on><timeline_page/><title>this is just a tests</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-932682819</payload_hash>
+        <record_name>this is just a tests</record_name>
+        <reverted_from/>
+        <source>38f0c3511b121010b9cb31d7dc4bcb72</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 14:55:24</sys_created_on>
+        <sys_id>8a03c3d11b121010b9cb31d7dc4bcb88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17395ebc89b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 14:55:24</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c203c3d1421210106addafec41a6d788</update_guid>
+        <update_guid_history>c203c3d1421210106addafec41a6d788:-932682819</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="this is just a tests">642387d11b121010b9cb31d7dc4bcb48</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 14:55:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>01f287d237f54ad69edbeac2e009f3a4</sys_id>
+        <sys_metadata>0e03c3d11b121010b9cb31d7dc4bcb86</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>this is just a tests</sys_name>
+        <sys_package display_value="Uptycs Data" source="x_297025_uptycs_da">b4f0c3511b121010b9cb31d7dc4bcb70</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Uptycs Data">b4f0c3511b121010b9cb31d7dc4bcb70</sys_scope>
+        <sys_scope_delete display_value="">1a19506421364362af9fe996d7db63e4</sys_scope_delete>
+        <sys_update_name>sys_app_module_0e03c3d11b121010b9cb31d7dc4bcb86</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0e03c3d11b121010b9cb31d7dc4bcb86">8a03c3d11b121010b9cb31d7dc4bcb88</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 14:55:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

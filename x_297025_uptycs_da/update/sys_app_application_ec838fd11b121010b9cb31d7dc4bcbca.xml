@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Uptycs Data</name>
+        <order>100</order>
+        <roles>x_297025_uptycs_da.http_requests_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 14:57:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ec838fd11b121010b9cb31d7dc4bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Uptycs Data</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Uptycs Data" source="x_297025_uptycs_da">b4f0c3511b121010b9cb31d7dc4bcb70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Uptycs Data">b4f0c3511b121010b9cb31d7dc4bcb70</sys_scope>
+        <sys_update_name>sys_app_application_ec838fd11b121010b9cb31d7dc4bcbca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 14:57:28</sys_updated_on>
+        <title>Uptycs Data</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
