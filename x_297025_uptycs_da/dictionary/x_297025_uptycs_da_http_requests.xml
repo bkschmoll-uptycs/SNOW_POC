@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="HTTP Requests" max_length="40" name="x_297025_uptycs_da_http_requests" sizeclass="2" type="collection">
-        <element label="Data" max_length="255" name="data" type="string"/>
+    <element label="HTTP Requests" max_length="40" name="x_297025_uptycs_da_http_requests" sizeclass="8" type="collection">
+        <element label="Data" max_length="256" name="data" type="string"/>
+        <element label="Job ID" max_length="40" name="job_id" type="string"/>
+        <element label="Last" max_length="40" name="last" type="boolean"/>
+        <element label="Run At" max_length="40" name="run_at" type="longint"/>
     </element>
 </database>
